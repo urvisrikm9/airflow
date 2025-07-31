@@ -59,6 +59,7 @@ Use Airflow to author workflows (Dags) that orchestrate tasks. The Airflow sched
 - [Principles](#principles)
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
+- [Visual Showcase](#visual-showcase)
 - [Installing from PyPI](#installing-from-pypi)
 - [Installation](#installation)
 - [Official source code](#official-source-code)
@@ -72,6 +73,7 @@ Use Airflow to author workflows (Dags) that orchestrate tasks. The Airflow sched
 - [Contributing](#contributing)
 - [Voting Policy](#voting-policy)
 - [Who uses Apache Airflow?](#who-uses-apache-airflow)
+- [Powered by](#powered-by)
 - [Who maintains Apache Airflow?](#who-maintains-apache-airflow)
 - [What goes into the next release?](#what-goes-into-the-next-release)
 - [Can I use the Apache Airflow logo in my presentation?](#can-i-use-the-apache-airflow-logo-in-my-presentation)
@@ -126,6 +128,12 @@ is used in the [Community managed DockerHub image](https://hub.docker.com/p/apac
 
 <!-- END Requirements, please keep comment here to allow auto update of PyPI readme.md -->
 <!-- START Getting started, please keep comment here to allow auto update of PyPI readme.md -->
+
+## Visual Showcase
+
+Airflow’s intuitive dashboard lets you monitor, manage, and troubleshoot workflows with ease.
+
+
 ## Getting started
 
 Visit the official Airflow website documentation (latest **stable** release) for help with
@@ -450,6 +458,22 @@ We know about around 500 organizations that are using Apache Airflow (but there 
 [in the wild](https://github.com/apache/airflow/blob/main/INTHEWILD.md).
 
 If you use Airflow - feel free to make a PR to add your organisation to the list.
+
+## Powered by
+
+
+Explore how these organizations solve workflow orchestration challenges with Apache Airflow in their <u>engineering blogs</u>. Here are a few public examples:
+
+[Astronomer](https://www.astronomer.io/): Astronomer: Leading the Future of Data Orchestration.
+Empowering 77,000+ organizations to transform data workflows into mission-critical, AI-powered pipelines. Discover how Astronomer drives innovation and scale in the State of [Airflow 2025 report](https://www.astronomer.io/blog/state-of-airflow-2025-unleashing-the-future-of-data-orchestration/).
+
+[Mage AI](https://www.mage.ai): Read Mage AI’s detailed engineering guide, including production stories of optimizing data pipelines with Airflow for retail and modern data teas. [This blog](https://www.mage.ai/blog/apache-airflow-for-data-engineers-master-pipeline-orchestration) shows How Data Engineers Orchestrate with Airflow.
+
+[Slack](https://slack.com/): [Check out how Slack manages workflows with Airflow](https://medium.com/thefork/a-guide-to-mlops-with-airflow-and-mlflow-e19a82901f88) for workflow automation and MLOps, as described in this engineering post which is a Guide to MLOps with Airflow and MLflow.
+
+If your organization uses Airflow and would like to be featured, feel free to contribute a link on case study or a blog!
+
+For more use cases, visit the [official Apache Airflow website's use studies](https://airflow.apache.org/case-studies/).
 
 <!-- END Who uses Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
 <!-- START Who maintains Apache Airflow, please keep comment here to allow auto update of PyPI readme.md -->
